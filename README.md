@@ -44,7 +44,7 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeelgolakiya2025-glitch&show_icons=true&theme=tokyonight&hide_border=true" width="80%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jeelgolakiya2025-glitch&show_icons=true&theme=tokyonight&hide_border=true" width="70%" />
 </p>
 
 ---
