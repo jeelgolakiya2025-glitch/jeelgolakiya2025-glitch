@@ -55,7 +55,7 @@
   <a href="https://www.linkedin.com/in/jeel-golakiya-59a1a039a/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
+  <a href="https://x.com/Jeelgola2025" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
   <a href="mailto:jeelgolakiya2025@gmail.com">
