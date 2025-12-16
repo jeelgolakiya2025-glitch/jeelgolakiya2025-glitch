@@ -7,10 +7,6 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js;Building+Clean+%26+Animated+UIs;Always+Learning+New+Things&center=true&width=600&height=55&color=58A6FF&size=22">
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blueviolet&style=flat" />
 </p>
 
@@ -49,11 +45,11 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jeelgolakiya2025-glitch&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeelgolakiya2025-glitch&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeelgolakiya2025-glitch&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </p>
 
 ---
