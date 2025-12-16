@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blueviolet&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js;Building+Clean+%26+Animated+UIs;Always+Learning+New+Things&center=true&width=600&height=55&color=58A6FF&size=22">
 </p>
 
 ---
@@ -57,13 +57,13 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/jeel-golakiya-59a1a039a/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:jeelgolakiya2025@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
