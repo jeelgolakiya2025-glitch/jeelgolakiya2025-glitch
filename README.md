@@ -64,7 +64,3 @@
 </p>
 
 ---
-
-<h3 align="center">
-  ✨ “Code. Animate. Improve. Repeat.” ✨
-</h3>
